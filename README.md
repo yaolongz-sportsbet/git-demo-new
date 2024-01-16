@@ -1,2 +1,2 @@
 # git-demo-new
-feature-1
+feature-one
